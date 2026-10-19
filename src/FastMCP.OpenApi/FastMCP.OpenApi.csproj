@@ -14,8 +14,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FastMCP\FastMCP.csproj" />
-    <PackageReference Include="Microsoft.OpenApi" Version="1.6.11" />
-    <PackageReference Include="Microsoft.OpenApi.Readers" Version="1.6.11" />
+    <PackageReference Include="Microsoft.OpenApi" Version="1.6.30" />
+    <PackageReference Include="Microsoft.OpenApi.Readers" Version="1.6.30" />
    
   </ItemGroup>
 
